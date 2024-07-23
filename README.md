@@ -25,3 +25,17 @@ persons who has the same blood group is not available in blood group he is need.
 request the person to donate the blood for saving someone life. 
 Our system also allow user to search online the person who have the same blood group he needs 
 and if he finds a donor in his city the we give him all details of the donor.  
+
+Online Blood Bank and Donor Management system is to provide services for the people who 
+are in need of blood by getting help from the donors who are interested in donating blood for 
+the people. They are  
+Admin 
+Donors 
+Donor registration 
+Modifying Donor Information  
+Acceptors 
+Donor search  
+Update contact info
+
+-	Designed and developed a comprehensive system for managing donor information and blood group availability using SQL, PHP, and JavaScript.
+-	Utilized XAMPP for local server management, enhancing system efficiency and accessibility for blood bank operations
